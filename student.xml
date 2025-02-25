@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="t.css"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>Aryan</name>
+        <age>20</age>
+        <department>Course: Computer Science</department>
+        <courses>
+            <course>Data Structures</course>
+            <course>Web Development</course>
+        </courses>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Himani</name>
+        <age>22</age>
+        <department>Course: Electronics</department>
+        <courses>
+            <course>Digital Circuits</course>
+            <course>Embedded Systems</course>
+        </courses>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Aditi</name>
+        <age>21</age>
+        <department>Course: Mechanical</department>
+        <courses>
+            <course>Thermodynamics</course>
+            <course>Fluid Mechanics</course>
+        </courses>
+    </student>
+    <student>
+        <id>4</id>
+        <name>Vishwa</name>
+        <age>23</age>
+        <department>Course: Civil</department>
+        <courses>
+            <course>Structural Engineering</course>
+            <course>Surveying</course>
+        </courses>
+    </student>
+    <student>
+        <id>5</id>
+        <name>Sahaj</name>
+        <age>20</age>
+        <department>Course: Computer Science</department>
+        <courses>
+            <course>Machine Learning</course>
+            <course>Artificial Intelligence</course>
+        </courses>
+    </student>
+    <student>
+        <id>6</id>
+        <name>Hetakshi</name>
+        <age>22</age>
+        <department>Course: Biotechnology</department>
+        <courses>
+            <course>Genetics</course>
+            <course>Bioinformatics</course>
+        </courses>
+    </student>
+
+    <student>
+        <id>7</id>
+        <name>Suryansh</name>
+        <age>23</age>
+        <department>Course: Mathematics</department>
+        <courses>
+            <course>Linear Algebra</course>
+            <course>Probability Theory</course>
+        </courses>
+    </student>
+    <student>
+        <id>8</id>
+        <name>Armaan</name>
+        <age>20</age>
+        <department>Course: Physics</department>
+        <courses>
+            <course>Quantum Mechanics</course>
+            <course>Electromagnetism</course>
+        </courses>
+    </student>
+    <student>
+        <id>9</id>
+        <name>Ruqsaa</name>
+        <age>21</age>
+        <department>Course: Chemistry</department>
+        <courses>
+            <course>Organic Chemistry</course>
+            <course>Analytical Chemistry</course>
+        </courses>
+    </student>
+</students>
